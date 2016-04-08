@@ -12,7 +12,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-		"dirs/yii2-dirs-dataehora" : "v0.0.1"
+		"dirs/" : "*"
     },
     "autoload": {
         "psr-4": {
