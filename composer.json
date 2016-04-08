@@ -1,0 +1,21 @@
+{
+    "name": "dirs/yii2-dirs-dataehora",
+    "description": "Funções para manipulação de datas e horarios",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Diogenes Petry",
+            "email": "diogenes@dirs.com.br"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dirs\\dataehora\\": ""
+        }
+    }
+}
