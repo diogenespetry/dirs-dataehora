@@ -5,12 +5,9 @@ namespace dirs\dataehora;
 /**
  * This is just an example.
  */
-class AjustaHora extends \yii\base\Widget
+class AjustaHora extends \yii\helpers
 {
-    public function run()
-    {
-        return "Hello!";
-    }
+   
     
     public function m2h($mins) {
         // Se os minutos estiverem negativos
