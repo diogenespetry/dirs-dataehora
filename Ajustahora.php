@@ -1,6 +1,6 @@
 <?php
 
-namespace dirs\dataehora;
+namespace diogenespetry\dirs-dataehora;
 
 /**
  * This is just an example.
