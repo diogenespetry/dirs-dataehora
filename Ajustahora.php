@@ -7,9 +7,8 @@ namespace dirs\dataehora;
  */
 class AjustaHora extends \yii\helpers
 {
-   
     
-    public function m2h($mins) {
+    public function minutos2horas($mins) {
         // Se os minutos estiverem negativos
         if ($mins < 0)
           $min = abs($mins); 
